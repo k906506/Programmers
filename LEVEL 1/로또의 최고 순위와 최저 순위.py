@@ -13,3 +13,4 @@ def solution(lottos, win_nums):
     if worst > 6:
         worst = 6
     return best, worst
+
